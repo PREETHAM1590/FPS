@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">GamePerf Monitor</string>
+    
+    <!-- Main Activity -->
+    <string name="service_status">Service Status</string>
+    <string name="metrics_section">METRICS</string>
+    <string name="appearance_section">APPEARANCE</string>
+    <string name="behavior_section">BEHAVIOR</string>
+    <string name="advanced_section">ADVANCED</string>
+    
+    <!-- Metrics -->
+    <string name="fps">FPS</string>
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="gpu_usage">GPU Usage</string>
+    <string name="ram_usage">RAM Usage</string>
+    <string name="temperature">Temperature</string>
+    <string name="show_labels">Show Labels</string>
+    
+    <!-- Appearance -->
+    <string name="text_color">Text Color</string>
+    <string name="background_color">Background</string>
+    <string name="transparency">Transparency</string>
+    <string name="size">Size</string>
+    <string name="layout">Layout</string>
+    <string name="layout_horizontal">Horizontal</string>
+    <string name="layout_vertical">Vertical</string>
+    <string name="layout_compact">Compact</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    
+    <!-- Behavior -->
+    <string name="auto_hide">Auto-hide</string>
+    <string name="lock_position">Lock Position</string>
+    <string name="save_position">Save Position</string>
+    <string name="game_detection">Game Detection</string>
+    
+    <!-- Advanced -->
+    <string name="update_rate">Update Rate</string>
+    <string name="start_on_boot">Start on Boot</string>
+    <string name="show_notification">Show Notification</string>
+    
+    <!-- Notifications -->
+    <string name="notification_title">GamePerf Monitor is running</string>
+    <string name="notification_text">Monitoring performance metrics</string>
+    <string name="notification_channel_name">GamePerf Monitor Service</string>
+    <string name="notification_channel_description">Shows when the performance monitoring service is active</string>
+    
+    <!-- Permissions -->
+    <string name="overlay_permission_required">Overlay permission is required</string>
+    <string name="usage_stats_permission_required">Usage stats permission is required</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
