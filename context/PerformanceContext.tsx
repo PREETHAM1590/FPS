@@ -1,7 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import * as Notifications from 'expo-notifications';
-import { Platform } from 'react-native';
-import { useColorScheme } from 'react-native';
+import { Platform, useColorScheme } from 'react-native';
 
 interface PerformanceState {
   metrics: {
